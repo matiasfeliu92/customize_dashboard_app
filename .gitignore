@@ -1,0 +1,5 @@
+.env
+.ipynb_checkpoints
+secrets.toml
+__pycache__
+config.toml
